@@ -1,2 +1,2 @@
-import turtle
+import time
 print("bruh moment")
